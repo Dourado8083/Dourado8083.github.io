@@ -1,0 +1,25 @@
+.container{
+width: 70%;
+margin: auto;
+}
+h1{
+    text-align: center;
+    margin-bottom: 4rem;
+}
+.labels{
+    display: flex;
+    justify-content: space-between;
+}
+.full-width{
+width: 100%;
+
+}
+textarea{
+    min-height: 4rem;
+    max-height: 25rem;
+}
+button{
+margin-bottom: .5rem;
+width: 100%;
+
+}
